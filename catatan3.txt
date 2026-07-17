@@ -1,0 +1,5 @@
+ini adalah catatan 3
+catatan ini adalah catatan
+yang menandakan saya sudah
+berhasil push, membuat
+branch, lalu merge
